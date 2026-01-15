@@ -1,0 +1,57 @@
+# אוראל חזן צילום טבעי — Generative Engine Optimization Map
+
+> A צילום ווידאו business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-5ea30552.zappy5.app
+חוו סשן צילום בטבע ישראל ייחודי המשלב חיבור עצמי עם תוכן אותנטי לבעלי עסקים. הזמינו היום!
+
+### השירותים שלנו
+https://-5ea30552.zappy5.app/services
+גלו את מגוון שירותי הצילום שלנו: סשנים אישיים, תוכן אותנטי לבעלי עסקים וסשנים קבוצתיים בטבע. הזמינו עכשיו!
+
+### אודות
+https://-5ea30552.zappy5.app/about
+גלו את הסיפור מאחורי אוראל חזן צילום טבעי - מסע של חיבור לטבע ויצירת תוכן אותנטי לבעלי עסקים.
+
+### צור קשר
+https://-5ea30552.zappy5.app/contact
+מעוניינים בסשן צילום וידאו בטבע לחיבור עצמי? צרו קשר עכשיו והזמינו את החוויה שלכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5ea30552.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5ea30552.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5ea30552.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אוראל חזן צילום טבעי
+אוראל חזן צילום טבעי is a business in the צילום ווידאו industry.
+
+## Target Audience
+אנשים המחפשים חיבור עצמי ובעלי עסקים שרוצים תוכן אותנטי
+
+## Industry
+צילום ווידאו
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-5ea30552.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-5ea30552.zappy5.app/robots.txt
